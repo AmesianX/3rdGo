@@ -1,0 +1,9001 @@
+Build Status
+Awesome
+Capture The Flag
+contribution guidelines
+Registry Dumper
+CTFd
+fbctf
+Mellivora
+Scorebot
+Metasploit JavaScript Obfustcator
+Uglify
+Bettercap
+Layer 2 attacks
+PkCrack
+RSATool
+XORTool
+John The Jumbo
+John The Ripper
+Ophcrack
+binjitsu
+DLLInjector
+Metasploit
+pwntools
+qira
+ROP Gadget
+Aircrack-Ng
+Audacity
+bkhive and samdump2
+CFF Explorer
+creddump
+DVCS Ripper
+Exif Tool
+extundelete
+Fibratus
+Foremost
+fsck.ext4
+Malzilla
+NetworkMiner
+PDF Streams Inflater
+ResourcesExtract
+Shellbags
+UsbForensics
+Volatility
+Wireshark
+RegistryViewer
+Windows Registry Viewers
+Androguard
+angr
+Apk2Gold
+ApkTool
+Barf
+BinUtils
+BinWalk
+Boomerang
+GDB
+Hopper
+IDA Pro
+Jadx
+Krakatau
+radare2
+Uncompyle
+WinDbg
+z3
+Detox
+Revelo
+RABCDAsm
+swftools
+xxxswf
+CSWSH
+Request Bin
+Convert
+ImageMagick
+pngtools
+SmartDeblur
+Steganabara
+Steghide
+Stegsolve
+SQLMap
+w3af
+XSSer
+CTF Tools
+CTF Field Guide
+CTF Resources
+How to Get Started in CTF
+MIPT CTF
+Backdoor
+Ctfs.me
+Exploit Exercises
+Gracker
+Hack This Site
+IO
+Over The Wire
+Pwnable.kr
+Ringzer0Team
+SmashTheStack
+VulnHub
+WebHacking
+WeChall
+CTF Time
+Reddit Security CTF
+Bamboofox
+ISIS Lab
+OpenToAll
+Captf
+CTF write-ups (community)
+pwntools writeups
+Smoke Leet Everyday
+READ THIS!
+OverTheWire
+CanYouHack.it
+ctftime
+DEF CON
+CTFTime
+CTFTime
+file
+Wikipedia
+xxd
+wxHexEditor
+package
+HxD
+Comparison of Hex Editors
+Cmder
+GnuWin32
+List of terminal emulators
+base64
+here
+base64
+Base64
+here
+Python script
+here
+Bash script
+Caesar Cipher
+here
+md5sum
+here
+MD5
+Olympic CTF 2014
+Wikipedia
+Introduction to Cryptography
+python
+docs
+Thorough explanation
+simple crack example
+RSA
+here
+sha1sum
+here
+SHA1
+here
+here
+Online Vigenère cracker
+Reverse Engineering for Beginners
+xxd
+HxD
+`dd`
+`Binwalk`
+XXD
+HxD
+DD
+Binwalk
+in GIMP
+GIMP
+Photoshop
+watermark guide
+Stegsolve
+this
+Steganography
+a server-side scripting language designed for web development
+PHP
+Internet Security
+introduction and database
+SQL Injection
+Google
+Google
+Cross-site scripting
+h34dump
+Scoreboard
+committing rules
+emojis
+our tools repo
+stegsolve
+iPhone 5 camera
+Scoreboard
+More Smoked Leet Chicken
+https://stratum0.org/blog/posts/2013/10/26/hack-dot-lu-2013-ecka
+http://balidani.blogspot.pt/2013/10/hacklu-ctf-crypto-200-geiers-lambda.html
+https://stratum0.org/blog/posts/2013/10/26/hack-dot-lu-2013-marvin-is-plain-jane
+http://secgroup.ext.dsi.unive.it/2013/10/25/hack-lu-2013-ctf-write-up-robotic-superiority
+https://stratum0.org/blog/posts/2013/10/25/hack-dot-lu-2013-wannabe
+https://www.arneswinnen.net/2013/11/hack-lu-2013-ctf-wannabe-writeup-part-one-web-exploitation
+https://hexpresso.wordpress.com/2013/10/24/hack-lu-ctf-2013-internals-200-packed-write-up
+https://ctf.fluxfingers.net/static/downloads/max_404/image.tar.gz
+https://stratum0.org/blog/posts/2013/10/26/hack-dot-lu-2013-robot-plans
+https://thufirhowatt.wordpress.com/hack-lu-ctf-robot-plans-writeup
+http://secgroup.ext.dsi.unive.it/2013/10/27/hack-lu-2013-ctf-write-up-whats-wrong-with-this
+PPP
+BalalaikaCr3w
+Stratumauhuur
+http://thehackerblog.com/sneaky-methods-for-capturing-the-geolocation-flags-for-hack-lu-ctf
+http://blog.0ops.net/blog/2013/10/27/hack-dot-lu-ctf-2013-misc-222-geolocation-flag
+http://nikaiw.io/scanning-the-internet-for-fun-and-country-flags-hack-lu
+https://stratum0.org/blog/posts/2013/10/25/hack-dot-lu-2013-roboparty
+Scoreboard
+https://charliex2.wordpress.com/2013/10/24/hack-lu-ctf
+https://stratum0.org/blog/posts/2013/10/25/hack-dot-lu-2013-elf
+http://blog.frizn.fr/hacklu-2013/reverse-400-elf
+http://h4des.org/blog/index.php?/archives/338-hack.lu-CTF-2013-ELF-400-Making-Of.html
+https://github.com/sqall01/ZwoELF
+http://delogrand.blogspot.ro/2013/10/hacklu-ctf-2013-fluxarchivpart1-150.html
+http://big-daddy.fr/blog/?p=254
+https://stratum0.org/blog/posts/2013/10/26/hack-dot-lu-2013-fluxarchiv
+https://hexpresso.wordpress.com/2013/10/24/hack-lu-ctf-2013-reversing-900-fluxarchiv-write-up
+http://blog.w3challs.com/index.php?post/2013/10/26/Hack.lu-CTF-2013-FluxArchive-Part-1-2
+http://blog.lse.epita.fr/articles/63-hacklu-2013-fluxarchiv-write-up-both-parts.html
+https://stratum0.org/blog/posts/2013/10/26/hack-dot-lu-2013-fluxarchiv
+https://hexpresso.wordpress.com/2013/10/24/hack-lu-ctf-2013-reversing-900-fluxarchiv-write-up
+http://blog.w3challs.com/index.php?post/2013/10/26/Hack.lu-CTF-2013-FluxArchive-Part-1-2
+http://blog.lse.epita.fr/articles/63-hacklu-2013-fluxarchiv-write-up-both-parts.html
+http://delogrand.blogspot.ro/2013/10/hacklu-ctf-2013-reverseme-150.html
+http://depier.re/hacklu_2K13_roboauth_reverse_150
+http://deepinsecurity.blogspot.fr/2013/10/hacklu-ctf-2013-reverse-150-roboauth.html
+http://blog.fortinet.com/post/hack-lu-capture-the-flag-ctf-roboauth
+http://axelrodgunnarson.blogspot.fr/2013/10/hacklu-2013-reverse-150-write-up.html
+http://delogrand.blogspot.ro/2013/10/hacklu-ctf-2013-pay-tv-200.html
+https://lukasklein.com/blog/hacklu13-ctf-4-paytv
+http://thehackerblog.com/pay-tv-writeup-hack-lu-ctf-2013
+https://stratum0.org/blog/posts/2013/10/25/hack-dot-lu-2013-pay-tv
+http://depier.re/hacklu_2K13_pay_tv_web_200
+http://axelrodgunnarson.blogspot.fr/2013/10/here-we-are-my-first-post.html
+http://delogrand.blogspot.ro/2013/10/hacklu-ctf-2013-robots-exclusion.html
+http://cao.vc/notes/hacklu13-web150
+https://stratum0.org/blog/posts/2013/10/24/hack-dot-lu-2013-robots-exclusion-committee
+http://thehackerblog.com/robots-exclusion-committee-writeup-hack-lu-2013-ctf
+http://depier.re/hacklu_2K13_rec_web_150
+Python
+Java
+within a nearby black hole
+This
+tool
+control flow graphs
+Their transmission
+Steganography
+web-based authentication system
+Files available for download here
+out there
+Autopsy
+here
+at CloudShark
+Cloudshark
+PCAP file
+hidden website
+command-line interface
+all of the files
+docx file
+Problem
+sql-injection-authentication-bypass-cheat-sheet
+some of its data
+here
+here
+here
+here
+here
+here
+here
+here
+shellcode
+here
+simple web page
+https://2013.picoctf.com/problems/php2/index.phps
+here
+https://github.com/BatmansKitchen/ctf-writeups/tree/master/2013-picoctf/PHP2
+https://github.com/innoying/hydrantlabs.org-old/blob/master/content/Security/picoCTF/2013/PHP2/index.jade
+this site
+http://blog.phuongnam.org/2013/07/picoctf.html
+https://github.com/elc1798/stuyfyre-picoctf-2013/blob/master/PHP3-120/Solution.txt
+this site
+http://sturzu.org/2013/05/07/picoctf-writeup-php4-110
+https://dook.biz/2015/02/picoctf-2013-php4-writeup/
+partial dump of the disk
+Autopsy
+Problem
+Source
+Python Eval 1
+Python Eval 2
+Python Eval 3
+https://www.uns.vn/picoctf-2013-write-up-python-eval-3/
+http://hacktracking.blogspot.com/2014/01/picoctf-2k13-python-eval-3.html
+https://github.com/james9909/PracticeCTF/tree/master/picoCTF-2013/Python%20Eval%203
+Python Eval 4
+http://hacktracking.blogspot.com/2014/02/picoctf-2k13-python-eval-4.html
+Source
+http://hacktracking.blogspot.com/2014/02/picoctf-2k13-python-eval-5.html
+http://haeresy.tumblr.com/post/49832621763/python-eval-5
+Decrypt CAESAR Online
+Scoreboard
+communication
+Morse code chart
+here
+here
+here
+here
+here
+Problem
+Wikipedia
+gmpy2
+incoming transmission
+here
+Jeffrey's Exif Viewer Tool
+an ancient can of SPAM
+file
+MD5 implementations
+salt
+Node.js
+XML file
+the website
+edithiscookie
+CTF
+Let us know
+Write-ups for CTFs that occurred in 2013
+Write-ups for CTFs that occurred in 2014
+Write-ups for CTFs that occurred in 2015
+Write-ups for CTFs that occurred in 2016
+encryption cipher
+Rijndael key schedule
+logging in
+the Salsa20 encryption library
+Python Salsa20 library
+http://188.40.18.67
+Draw
+Vietnamese
+Vietnamese
+Scoreboard
+`radio_heat_29f5ae02d08c6b204.tar.gz` (158.9 MB)
+Firefox Hackbar
+http://works.90.31c3ctf.aachen.ccc.de/works.html
+http://31c3ctf.90.31c3ctf.aachen.ccc.de/announcements.html
+bashful.9447.plumbing
+the _tumorous_ challenge
+`.git/logs/HEAD`
+packed
+this Stack Overflow answer
+Write-up by VulnHub CTF team
+Write-up + exploit by Ricky Zhou
+Chinese
+memory dump
+Write-up by @bernardomr
+Write-up + exploit by Ricky Zhou
+here
+Write-up + exploit by saelo
+Write-up + exploit by Ricky Zhou
+here
+Write-up + exploit by saelo
+Write-up + exploit by Ricky Zhou
+here
+Write-up + exploit by saelo
+Solution by @auscompgeek
+Write-up by hypnosec
+Write-up + exploit by Ricky Zhou
+x86 C convention
+travels of a lonely cloud
+The website
+The `filterOptions` function
+The `getPosts` function
+Shellshock
+Exploit by Ymgve that leaks `/flag` piece by piece
+Exploit by HoLyVieR using a timing attack + blind Shellshock injection
+Exploit by cyberguru - execute command with one query
+Scoreboard
+@9447CTF on Twitter
+Write-up + exploit by Ricky Zhou
+here
+tumorous.9447.plumbing
+the _bashful_ challenge
+the way Git stores objects
+rip-git
+Write-up by Hypnosec
+Hacknamstyle
+p7zip
+ElGamal encryption
+Wikipedia
+Cramer–Shoup cryptosystem
+tasteless
+p7zip
+p7zip
+Flex
+p7zip
+AFP
+his Twitter account
+a tweet with the text “fact or real:” followed by an image that says `NO+$=YES`
+NSA DOCID: 4046925 Untangling the Web: A Guide to Internet Research
+p7zip
+RFC 1323
+ASIS Quals 2014
+p7zip
+p7zip
+the fractional-part digits of `π`
+This page
+this file named `pi.txt`
+OpenCV
+p7zip
+A reverse image search
+Fibonacci numbers
+a website dedicated to it
+a very long string
+p7zip
+using `dex2jar`
+JD-GUI
+APK studio
+p7zip
+a PDF version online
+Scoreboard
+HacknamStyle
+p7zip
+similar RSA challenge in ASIS CTF
+`rsatool.py`
+The Tor documentation
+a SAT formula
+p7zip
+`pycosat`
+Write-up by Souhail Hammou
+Write-up by Balalaika Cr3w
+p7zip
+public UPX tools
+Alternative Exploit in Python
+French
+p7zip
+p7zip
+p7zip
+Paillier cryptosystem
+Homomorphic properties
+binary search algorithm
+Exploit written in Python
+p7zip
+the page with the original image
+the list of the famously leaked RockYou passwords
+HacknamStyle
+QR codes
+Merkle-Hellman cryptosystem
+sage
+Stegsolve
+source
+p7zip
+file
+Indonesian
+Persian
+romhacking.net
+bsnes
+Namco
+Tank Battalion
+Indonesian
+Persian
+p7zip
+magic number
+HacknamStyle
+Persian
+Main website
+Scoreboard
+@asisctf on Twitter
+p7zip
+Persian
+header/file signature
+LZO
+UUEncoding
+here
+port knocking
+the `knock` command-line utility
+Indonesian
+p7zip
+Persian
+the robustness principle
+`Slashdot effect`
+NIST hash function competition
+SHA-3
+Keccak
+Writeup by @wapiflapi
+French
+Chinese
+Chinese
+French
+Korean
+Korean
+Korean
+Chinese
+Korean
+French
+Chinese
+Korean
+Korean
+French
+Korean
+Korean
+Japanese
+Japanese
+Japanese/English
+German
+Korean
+German
+Korean
+Korean
+japanese
+Japanese
+Korean
+pycrypto
+Write-up by Daniel Bali
+Solution by Daniel Bali
+Solution by mak`
+Solution by Gynvael Coldwind
+Solution by Bartol
+Main website
+Scoreboard
+@DragonSectorCTF on Twitter
+the `tr` command
+SumatraPDF
+PDF.js
+online Morse code decoder
+PHP `serialize()` documentation
+PHP’s crazy `==` operator
+Write-up by Rentjong (auto-translated)
+Solution by phiber
+committing rules
+emojis
+our tools repo
+IDA
+`uncompyle2`
+is equivalent to
+PDF Stream Dumper
+is equivalent to
+dotabuff.com
+dotabank.com
+which enables an XSS vulnerability when e.g. `$('#' + userContent)` is called
+CVE-2011-4969
+`#<img src=/ onerror=alert(1)>`
+Exploit written in Python
+Chinese
+this OkCupid profile
+set up another OkCupid profile that was much easier to find
+the _2007-Freshman Orientation_ album
+Write-up by @bt3gl
+Exploit written in Perl by @dz-coder
+Exploit written in PHP by @stypr
+_Escaping Python sandboxes_
+Korean
+Scoreboard
+CTF VM MIRROR 0
+CTF VM MIRROR 1
+CTF VM MIRROR 2
+CTF VM MIRROR 3
+Exploit written in Python by @ebeip90
+Exploit written in Python by @ebeip90
+Exploit written in Python by @ebeip90
+HacknamStyle
+are sufficient
+Mirror of the above write-up by Mathy
+Write-up by ekse
+Write-up by tasteless
+Excellent PoC by Henry Sanchez
+Korean
+a simple reverse shell
+`paranoia.jar`
+Andrei Avădănei
+His LinkedIn profile
+the Cyber Security Research Center in Romania
+Gitlist
+vulnerable to remote command execution
+/r/netsec
+Barnette’s conjecture
+_Brainloller_
+the _brainfuck_ programming language
+an open-source Brainloller implementation
+a buffer overflow vulnerability in the `MKD` command
+a Metasploit module
+the 1983 movie WarGames
+several launch codes are used
+Scoreboard
+CMS Mini
+multiple vulnerabilities in v0.2.2
+Logout
+English.doc - $10.00
+English.docx - $20.00
+Presentation.ppt - $15.00
+`unoconv`
+Japanese
+Matir's write up
+SkullSecurity
+Challenge source code (released after the CTF)
+Solution in Python by IdolfHatler
+Matir’s writeup
+Japanese
+Solution in Python by IdolfHatler
+Japanese
+Main website
+Explanation of category names
+Scoreboard
+Scoreboard data dump
+@legitbs_ctf on Twitter
+DEF CON CTF Qualifier 2014 @ CTFtime.org
+Source code for challenges on GitHub (to be added after DEF CON Finals 2014)
+Japanese
+Japanese
+Japanese
+a hint for this challenge was provided
+Vigenère cipher
+Keyczar
+key encapsulation
+`fsutil`
+Russian
+Official Twitter account with challenge hints
+Scoreboard
+Francis Alexander
+Yashin Mehaboobe
+@Sp3ctr3
+a commit with the following details
+message
+Ajin Abraham
+Ajin’s website
+Ajin’s contact form
+HacknamStyle
+TrID
+PROTECTiON iD
+PEiD
+IDA
+JetBrains dotPeek
+HacknamStyle
+Japanese
+Russian
+HacknamStyle
+PyInstaller
+Japanese
+HacknamStyle
+the Firmware Modification Kit
+Secret Service
+Auth Me In
+“Not SQL”
+a NoSQL injection
+Japanese
+using `dex2jar`
+JD-GUI
+Japanese
+Search Me
+The response
+This error message format
+an `_all_docs` endpoint
+`_changes`
+Let’s take a look
+Let’s check it out
+Admin
+Octocat, the official GitHub mascot
+Login Please
+NRUG
+Scoreboard
+Annoying Admin
+File
+File
+`exploit.py`
+Source code for this challenge (released by the author after the CTF)
+the ‘Fortress’ page
+`/ec2.php?ami_id=;ls;`
+`/ec2.php?ami_id=%0als%0a`
+`/ec2.php?ami_id=;cat%20key.php;`
+`/ec2.php?ami_id=%0acat%20key.php%0a`
+Very download
+Chinese
+File
+File
+File
+File
+File
+File
+p7zip
+Chinese
+File
+Russian
+Chinese
+PHPCrypto 0.000001
+the PHP script
+the `customCrypto` function
+`assert()`
+File
+p7zip
+File
+Source code for this challenge (released by the author after the CTF)
+Video of challenge
+File
+Matir
+p7zip
+Trailer
+Choose Your Pwn Adventure 2 Credits
+Solve counts
+Team solves
+Link
+the FCEUX emulator
+File
+Russian
+Source code for this challenge
+Write-up by team gn00bz
+Final scores
+click here!
+click here
+start here
+@squareroots CTF Team on Twitter
+Upload your snap here
+Here
+bgb
+Write-up by tasteless
+Write-up by @bernardomr
+Write-up by @jhector
+Write-up and exploit by @jhector
+Write-up by tasteless
+Write-up by tasteless
+Write-up by captchaflag
+URL-decodes into the following
+`rot`
+this becomes
+Write up by Rogdham
+Writeup by captchaflag
+French
+Encode `cat` in octal
+`????`
+`HMAC_S\u0395CRET`
+U+0395 GREEK CAPITAL LETTER EPSILON
+Holy Moses exploit and write-up using pwntools
+the full source code for the site
+the `page.firstMessage` function in `js/pages/chat.js`
+The `page.view` function around line 134 of `js/pages/chat.js`
+the site is sending a CSP header which disallows inline scripts
+clobbered
+this line in `js/router.js`
+`js/pages/chat.js` set up a timer to call `page.firstMessage` after a second
+The `page.firstMessage` function
+the custom `Template.prototype.assign` method as defined in `js/template.js`
+`location.assign`
+`page.appendMessage`
+dangling markup injection attack
+instantiating a new `Template` object
+immediately loaded via `XMLHttpRequest` and cached in the `sessionStorage`
+lines 144 and 145 in `js/pages/chat.js`
+line 165
+uses a relative URL to load the `message.html` template
+`page.appendMessage`
+`location.assign('<base href=https://our-server.example.com/> (PREM_flag{cows_need_love_too!})')`
+More info about _DOM clobbering_, the technique used to solve this challenge
+site
+Writeup by captchaflag
+German
+Challenge source, released after the CTF
+`next`
+`$GLOBALS`
+superglobals
+`variables_order`
+Xdebug
+`eval`
+`assert`
+download the StartSSL root certificate
+Coco
+CoffeeScript
+some old code
+`__defineGetter__`
+the return value of `con.write(it + "\n")`
+Writeup by @wapiflapi
+Write-up by tasteless
+Scoreboard
+ELF obfuscation: how to let analysis tools show incorrect external symbol calls
+Wiener attack details
+totient
+attack is implemented in Python
+Writeup by captchaflag
+Japanese
+Vietnamese
+Japanese
+Japanese
+Japanese
+Christmas release from Evad3rs
+brokenmarquee.gif
+Scoreboard
+Statistics
+Vietnamese
+notes
+challenge "vash"
+This blog post
+Exploiting `INSERT INTO` SQL injections ninja-style
+ginger
+notes
+finger
+notes
+Source
+http://203.66.57.98/a.jsp
+http://www.kb.cert.org/vuls/id/977440
+http://203.66.57.98/a;.jsp
+http://203.66.57.98/a%253b.jsp
+http://203.66.57.98/.%5Ca%253b.jsp
+http://203.66.57.98/.%5Cadmin%5C.htaccess%253b.jsp
+http://203.66.57.98/.%5Cadmin%5C.htpasswd%253b.jsp
+http://203.66.57.98/admin/thefl4g.txt
+notes
+source
+Unix Wildcards Gone Wild
+“Get flag”
+all functions
+research on JPEG headers
+___PBKDF2+HMAC hash collisions explained___
+The linked article
+PBKDF2+HMAC hash collisions explained
+Main website
+Scoreboard
+HITCON CTF 2014 @ CTFtime.org
+Franklin-Reiter Related Message Attack
+extended Euclidean algorithm
+Chinese
+PoC by g05u
+Spanish
+Spanish
+Scoreboard
+Chinese
+Chinese
+Main website
+@NotSoSecure on Twitter
+ElectronicColoringBook
+an online morse decoder
+reveals
+Netcat
+Ncat
+Scoreboard
+DEF CON 2006’s trivia challenge
+it uses `b` instructions (branches) instead
+Chinese
+Chinese
+Chinese
+md5<sup>-1</sup>("40288d60073775070a7edcdcd1df9c56") = ?
+Chinese
+hockey field management system
+crack it
+Chinese
+weather fax
+Multimode
+xxencoded
+decode it using an online xxdecoder
+Chinese
+Chinese
+French
+Scoreboard
+Olympic CTF 2014 tasks and write-ups @ CTFTime.org
+Wallarm
+it take you
+Chinese
+Chinese
+French
+Something
+flag is there
+the `X-Accel-Redirect` header
+French
+Chinese
+breadcrumbs
+Quest
+Holy Grail!
+something
+admin panel
+auth
+192.168.2.30:1337
+Soviet
+hangover has you!
+192.168.2.26
+Scoreboard
+Vulnboxes
+this
+this
+mainframe
+largest botnet
+it
+Detcelfer's Version Control System
+Credentials
+Japanese
+Someone
+alternative link
+Russian
+Korean
+clues
+Password
+calculation
+Korean
+Russian
+Russian
+online shop
+Credentials
+Japanese
+encrypted
+Credentials
+Auth token
+Scoreboard
+password
+Russian
+Password
+here
+Creds
+Russian
+Russian
+195.133.87.177:1337
+Truecrypt
+here
+here
+here
+here
+vuln2014.picoctf.com:51818
+vuln2014.picoctf.com:65414
+jadx
+Grep
+JAR file
+CloudShark
+MAC Address
+symlinks
+Shell
+vuln2014.picoctf.com:4548
+shell-storm.org
+shell-storm.org
+CVE Identifier
+Mitre
+Google
+Wolfram Alpha
+Scoreboard
+Website
+site
+Source
+homepage.html
+URL Encoded
+GET
+the phone
+Source code for this challenge, released after the CTF
+we could decrypt the entire session if we also had the SSL master secret
+let’s see how OpenSSL stores the SSL master key in memory
+Source code for this challenge, released after the CTF
+Indonese
+HacknamStyle
+on Stack Overflow
+Indonese
+Solution in Perl
+Source code for this challenge, released after the CTF
+HacknamStyle
+template metaprogramming
+found here
+Source code for this challenge, released after the CTF
+Indonese
+Source code for this challenge, released after the CTF
+Russian
+one strange javascript blob
+They’re string values
+Source code for this challenge, released after the CTF
+the Heartbleed bug
+Source code for this challenge, released after the CTF
+Spanish
+Source code for this challenge, released after the CTF
+Russian
+Source code for this challenge, released after the CTF
+Source code for this challenge, released after the CTF
+K-Pop lyrics website
+The `/import.php` endpoint
+The PHP documentation describes this ‘feature’ as follows
+Solution in PHP by @manhluat93
+Source code for this challenge, released after the CTF
+his exchange
+`/index.php?page=index`
+`/index.php?page=index.php`
+`/index.php?page=admin.php`
+hash length extension attacks
+HashPump
+The about page
+`/admin.php`
+`sqlmap`
+Source code for this challenge, released after the CTF
+Indonese
+Russian
+Excel used to have a bug
+Write-up by Martin Heistermann
+Write-up by More Smoked Leet Chicken
+Write-up by fail0verflow
+Solution by the Pwnies team
+Source code for this challenge, released after the CTF
+Chinese
+Source code for this challenge, released after the CTF
+website
+the WhatsCat challenge write-up
+PhantomJS
+Main website
+Scoreboard
+@PlaidCTF on Twitter
+Plaid CTF 2014 @ CTFTime.org
+Source code for some of the challenges
+this server
+Source code for this challenge, released after the CTF
+a Tor service
+Tor patch for this challenge
+HacknamStyle
+_Reconstructing RSA Private Keys from Random Key Bits_ by Nadia Heninger and Hovav Shacham
+`rsatool.py`
+Write-up by More Smoked Leet Chicken
+Write-up by fail0verflow
+Reconstructing RSA private keys from random key bits
+Source code for this challenge, released after the CTF
+Indonese
+Source code for this challenge, released after the CTF
+Source code for this challenge, released after the CTF
+Source code for this challenge, released after the CTF
+Indonese
+this site really is
+DNS PTR record
+Alexey Kaminsky has a write-up detailing this solution.
+like @phiber did
+a neat solution in Python
+Write-up by Alexey Kaminsky
+Write-up by Tasteless
+Write-up by Ron Bowes
+Python solution that figures out the flag character by character, by @ngocdh
+Custom DNS server to perform SQL injection through rDNS records, by @phiber
+Source code for this challenge, released after the CTF
+Source code for this challenge, released after the CTF
+SkUaTeR
+s0beit
+Japanese
+Spanish
+Chinese
+Scoreboard
+*OpenToAll*
+ZeroNights Conference 2014
+level2
+level3
+monitord 1
+monitord 1
+Scoreboard
+using `dex2jar`
+JD-GUI
+`adb logcat`
+CTF
+Let us know
+Write-ups for CTFs that occurred in 2013
+Write-ups for CTFs that occurred in 2014
+Write-ups for CTFs that occurred in 2015
+Write-ups for CTFs that occurred in 2016
+Iip
+Simulator
+Floppy
+Compile
+Md5 lext
+Japanese
+Mary
+Japanese
+Ssl
+Ructfcoin
+Related
+Openvpn\_dump
+http://10.100.0.1/
+Nosql
+Russian
+Random
+Virtual
+IR dump
+Japanese
+Russian
+Russian
+HW Reverse
+Files
+Japanese
+Russian
+ADC
+Find the key
+MC
+Shredder
+Japanese
+Radio
+radio
+Bluetooth dump
+Korean
+GSM
+Find the key
+Maze
+Russian
+Bio
+code
+Russian
+Minesweeper
+minesweeper
+RuCTF Quals
+RuCTF Tasks
+Favourite book
+Japanese
+Russian
+Stolen camera
+Japanese
+Russian
+Text me
+Russian
+Property Owner
+Russian
+Bad Ass Card
+Russian
+Harm
+Backdoor Crypto
+No Harm
+Erl
+Japanese
+Keyboard Interrupter
+Japanese
+Arcfour
+Gif lsb
+Audio Sub
+Russian
+Palette Code
+Russian
+Long Video
+Very strange video
+Echo
+an echo
+Guess
+Aggregator
+Qwer
+Quest
+Mixer
+PHP
+Find the key
+ES
+Find the key
+Japanese
+mssngrrr
+Let's send
+Japanese
+IRRSA
+our site
+OAUTH
+Read
+Scoreboard
+Vulnerable Image
+the rules page
+NLTK
+PPP has already written a script doing just that for PlaidCTF
+Portuguese
+Thai Video
+Portuguese
+Indonesian
+Portuguese
+Indonesian
+in which case it’s similar to the `LIST` command
+Indonesian
+Indonesian
+`jspuzzle.zip`
+The extracted contents of the provided ZIP file are available in the `challenge` directory.
+Portuguese
+Portuguese
+`Readit`
+Portoguese
+Scoreboard
+Number of solves per challenge
+@secconctf on Twitter
+Indonesian
+Portuguese
+Portuguese
+encoder board photos (Google Drive)
+wired in the same way
+Matir's write-up
+Cugu's write-up
+this code
+Main website
+Scoreboard
+this code
+The provided `level0` file
+the provided test harness
+This solution
+trie
+MARISA trie
+Gibybo’s write-up
+Jon Eisen’s write-up
+Evan Priestley’s write-up
+Samuel Walker’s write-up
+@paraboul’s 3rd place solution
+Original problems including a modified test harness that works locally
+the `LEDGER.txt`
+a sample miner implementation in your Gitcoin instance
+`miner` script
+re-implement Git’s object hashing
+`miner.py`
+Gibybo’s write-up
+Jon Eisen’s write-up
+Evan Priestley’s write-up
+Samuel Walker’s write-up
+Solution in Haskell
+Solution in C/CUDA
+Original problems including a modified test harness that works locally
+a bare-bones reverse proxy written in Node.js
+The repo’s `README.md`
+The provided `shield` script
+the patched file
+a score of 251
+Gibybo’s write-up
+Jon Eisen’s write-up
+Evan Priestley’s write-up
+Samuel Walker’s write-up
+Original problems including a modified test harness that works locally
+`git grep`
+Google Code Search
+GitHub Code Search
+a skeleton of a code search system written in Scala
+Gibybo’s write-up
+Jon Eisen’s write-up
+Evan Priestley’s write-up
+Samuel Walker’s write-up
+Solution in Node.js
+Burst trie implementation in Scala, used as part of the top-scoring solution
+2nd place solution
+Original problems including a modified test harness that works locally
+lots
+of
+systems
+out
+there
+highly-available
+starter code for such a database
+Go
+`README.md`
+Octopus
+lossy network
+Paxos
+Raft
+the Go implementation of the Raft distributed consensus protocol
+the provided starter code
+Top-scoring solution for this challenge (see “`level5`”)
+Gibybo’s write-up
+Jon Eisen’s write-up
+Evan Priestley’s write-up
+Samuel Walker’s write-up
+Original problems including a modified test harness that works locally
+Blog post on CTF3’s architecture
+(video)
+jadx
+here
+here
+this code
+Classical Physics Wiki page
+Vietnamese
+Scoreboard
+stegsolve
+brainfuck
+encrypted using OpenSSL
+multiplication of its reciprocal in fixed-point notation
+That hint URL
+ImageMagick’s `compare` command
+_Escaping Python sandboxes_
+using `dex2jar`
+JD-GUI
+Scoreboard
+Flag statistics
+@tinyctf on Twitter
+The Python back-end used for this CTF
+cryptogram
+character frequency analysis
+quipqiup.com
+twin primes
+https://s3.amazonaws.com/volgactf/stegasic/500/stego.wav
+Chinese
+b01lers
+Japanese
+Chinese
+Chinese
+Chinese
+Japanese
+Chinese
+polym
+Alpha-2 Codes
+Alpha-2 Codes Wikipage
+geonames
+Cape Town
+image
+baidu disk
+Scoreboard
+Number of solves per task
+Chinese
+this
+SleepProgger
+this
+Log
+Information about the fileformat and decrypter @https://heinrichs.io/
+Patch against qemu to add the custom device
+m1ghtym0
+Japanese
+Exploit by the challenge author
+polym
+`yForth`
+a rosetta link
+Execute a cmd with forth
+polym
+Chinese
+Japanese
+Stack Smashing Protection Infoleak
+ekoparty-pre-ctf-2015/pwn/smashing-the-stack-for-fun-and-profit
+this writeup
+`Fortify Source`
+suffers from an infoleak
+`__stack_chk_fail` to `__fortify_fail`
+`__fortify_fail`
+this writeup
+`__libc_message`
+Chinese
+Chinese
+Korean
+Japanese
+GoN (Korean)
+Japanese
+Scoreboard
+Sourcecode and eepron random data
+http://mitega.github.io/write-ups/32C3_CTF/carder/
+PICACHUUUUUUUUU!!!1!
+Chinese
+Japanese
+Sourcecode by the task author
+0xBADCA7
+BeEF
+HTTP response
+Japanese
+grnd
+flag
+b01lers
+b01lers
+sophia.re
+f0rki
+Spanish
+b01lers
+polym
+`cards.c`
+`shuffle`
+next higher card (if possible) in a sorted array
+`19-21`
+`24-26`
+most negative number
+right after `shuffle`
+this writeup
+directions.tar.gz
+Spanish
+b01lers
+sophia.re
+allfro
+sophia.re
+allfro
+sophia.re
+Scoreboard
+Sources for all challenges
+Danklang Interpreter
+b01lers
+polym
+here
+here
+b01lers
+polym
+syscall table
+polym
+PPP
+sophia.re
+youtube video
+tap code
+image time delay (in centi-seconds)
+sophia.re
+imaged.zip
+stefan2904
+sophia.re
+f0rki
+sophia.re
+f0rki
+ffmpeg security page
+supported input files of ffmpeg
+filename checker
+applehttp or hls
+this example from apple
+f0rki
+sophia.re
+polym
+open-source
+location hash
+http://tasks2015.asis-ctf.ir/iosdump_59a0829c9ed13248a95626130045a13e
+polym
+malware analysis result
+as this writeup describes
+Japanese
+Japanese
+Japanese
+Scoreboard
+DerBaer0
+code
+b01lers
+DerBaer0
+code
+elliptic-shiho
+Goldwasser–Micali cryptosystem
+msieve
+@elliptic_shiho
+b01lers
+code
+code
+DerBaer0
+Indonesian
+file
+polym
+PNG specification
+OCR
+this writeup
+Indonesian
+me
+file
+Alternative download
+Indonesian
+Vietnamese
+file
+polym
+Vietnamese
+file
+Alternative download
+ped
+reap-
+1
+00000284
+2
+3
+4
+6
+Indonesian
+file
+Alternative download
+polym
+a malware database
+Indonesian
+Vietnamese
+system
+This
+challenge
+polym
+this
+this writeup
+this writeup
+this one
+Another writeup author
+Indonesian
+Japanese
+Polish
+challenge
+Japanese
+Polish
+shellc0de
+Scoreboard
+these
+file
+file
+b01lers
+file
+Indonesian
+file
+file
+Indonesian
+file
+polym
+khack40
+brainloller
+file
+polym
+open source
+Here
+Indonesian
+there
+Indonesian
+there
+there
+Ghaaf
+ECHO
+Dhaval Kapil
+Here
+Indonesian
+TEAM
+Dhaval Kapil
+here
+Indonesian
+BBAD
+Vishrut Kumar Mishra
+crypted message
+test code soure
+bash history
+output
+RAND
+Abhay Bir Singh Rana
+this
+RSALOT
+Abhishek Das
+this
+polym
+this nice quick overview
+OAEP
+rsatool.py
+2014 writeup repo
+RSANNE
+Abhishek Das
+this
+CLOSED
+mathiasbynens
+Read the write-up for the _Concealed_ challenge first.
+_Concealed_
+CONCEALED
+Amanpreet Singh
+mathiasbynens
+FORGOT
+Abhishek Kandoi
+here
+polym
+List all functions
+Indonesian
+NONAME
+Amanpreet Singh
+this
+polym
+namespace
+all-ns
+here
+Indonesian
+Indonesian
+TIM
+Abhay Bir Singh Rana
+polym
+several commits
+Indonesian
+LHC
+Abhay Bir Singh Rana
+this dataset
+polym
+Indonesian
+QR
+Abhay Bir Singh Rana
+gb1035
+Indonesian
+RAPIDFIRE
+Amanpreet Singh
+Scoreboard
+FOLLOW
+Amanpreet Singh
+@BackdoorCtf
+Indonesian
+JSHUNT
+Abhay Bir Singh Rana
+JUDGE
+Amanpreet Singh
+JUDGE
+MEDUSA
+Abhay Bir Singh Rana
+https://gist.github.com/aluex/7811a2bc37443fc0bf45
+Japanese
+Chinese
+Chinese
+Chinese
+Japanese
+Scoreboard
+Applicable PoC
+Chinese analysis
+Japanese
+H4x0rPsch0rr
+Indonesian
+H4x0rPsch0rr
+epochfail
+mrexcessive
+Japanese
+Indonesian
+H4x0rPsch0rr
+Chinese
+H4x0rPsch0rr
+Chinese
+0xddaa
+Chinese
+Chinese
+Writeup by tasteless
+Writeup by Neg9
+How the challenge was designed
+Chinese
+dogshep
+Scoreboard
+MrVaughan
+Indonesian
+Source
+Indonesian
+Writeup by Neg9
+polym
+this remote writeup
+implementation
+Indonesian
+tomvangoethem
+`ereg()`
+first check
+`strpos()`
+second check
+Indonesian
+tomvangoethem
+polym
+transcript of Leonid Brezhnev's Telephone Conversation with Alexander Dubček
+red herring
+tomvangoethem
+the SQL query
+Indonesian
+Skybound1
+Japanese
+Indonesian
+oyearunpal
+polym
+might fail
+Indonesian
+polym
+official specification
+Indonesian
+oyearunpal
+polym
+Indonesian
+aSmig
+quick usb-mouse code
+@kavefish
+Indonesian
+oyearunpal
+polym
+Indonesian
+polym
+1
+2
+3
+n-gram analysis
+double letters
+polym
+The Bogmallo Beach Resort
+nullcon website
+polym
+an online QR decoder
+polym
+Origin of cipher
+Scoreboard
+polym
+here
+keypad
+python script
+polym
+the TFTP RFC1350
+Hackers
+polym
+these instructions
+XORSearch
+Japanese
+Japanese
+Japanese 2
+Japanese
+Japanese 2
+polym
+cached
+64-bit C calling convention order
+Source
+here
+Source
+cached
+Japanese
+Japanese 2
+Korean?
+Korean
+Japanese
+Japanese 2
+Korean
+Japanese
+Japanese 2
+Korean
+French
+Writeups, Results and Statistics by the Organisers
+Number of solves per task
+Scoreboard
+dump.vmem
+dump.vmem Mega.nz Mirror
+polym
+(VMWare) memory dump
+`volatility`
+imageinfo
+a proper profile
+another volatility foundation github repo
+linux commands of `volatility`
+LD_LIBRARY_PATH
+inode
+here
+Hopper
+IDA
+radare2
+Decompiled code
+graphical representation
+here
+ctfhacker
+Chinese
+polym
+Russian
+Japanese
+exploit-exercises
+writeup
+Japanese
+Japanese
+Japanese
+polym
+Russian
+Japanese
+sha256
+this
+this writeup
+this neat trick
+this writeup
+some decompilers
+Russian
+Japanese
+Japanese
+polym
+this blog post
+`__reduce__` method of provided objects
+"how to pickle"
+nelhage's blog post
+here
+this writeup
+that writeup
+Russian
+Chinese
+Scoreboard
+Russian
+Chaos West Village
+Service
+service
+service
+GoN (Korean)
+0xddaa
+Chinese
+Korean
+Korean
+Korean
+Scoreboard
+GoN (Korean)
+Korean
+GoN (Korean)
+stypr
+stypr
+Korean
+Korean
+Korean
+Korean
+Korean
+Korean
+Korean
+Korean
+Scoreboard
+HoLyVieR
+evgenymartynov
+Scoreboard
+HoLyVieR
+polym
+This Writeup
+filters
+more
+source
+HoLyVieR
+committing rules
+emojis
+our tools repo
+x0w1
+https://gist.github.com/triazo/f8379a5df446de5dd00e
+x0w1
+polym
+1
+2
+3
+tineye
+image raider
+Google images
+flash_c8429a430278283c0e571baebca3d139.img
+polym
+polym
+PLWagner
+polym
+http://bruce30262.logdown.com/posts/301623-csaw-ctf-2015-autobots
+Japanese
+French
+Korean
+Japanese
+http://bruce30262.logdown.com/posts/301425-csaw-ctf-2015-ftp
+Japanese
+Polish
+Japanese
+polym
+radare2
+`shellcraft.i386.linux.sh()`
+ODA
+gdb-peda
+create an issue
+Polish
+Korean
+Scoreboard
+flags to strings
+1
+2
+nulling the higher 32bits doing so
+2
+3
+source
+Z3 theorem prover
+Note that you need sudo
+http://bruce30262.logdown.com/posts/301425-csaw-ctf-2015-ftp
+http://bruce30262.logdown.com/posts/301384--csaw-ctf-2015-hacking-time
+http://tomasuh.github.io/2015/09/25/CSAW.html
+http://bruce30262.logdown.com/posts/301490-csaw-ctf-2015-wyvern
+compass
+polym
+krx
+7.11.4 of the official PDF specification by Adobe
+this config
+this writeup
+Scoreboard
+Google search
+`365d38c60c4e98ca5ca6dbc02d396e53` is the MD5 hash for `password12345`
+John the Ripper
+`Cyber Security Challenge 2015: Espionage by Glenn Vandamme`
+Volatility
+Memory forensics: how to pull passwords from a memory dump
+WarGames
+Regin
+Rijndael
+WarGames
+steganography
+ransomware
+DEF CON
+Turing
+Zuse
+OWASP
+Tor
+DDoS
+`honeypot`
+Heartbleed
+Simple File Transfer Protocol
+rfc page
+Scoreboard
+false positive
+polym
+this writeup
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Scoreboard
+Cached Version
+Cached Version
+Japanese
+Japanese
+Download
+Download
+boogy
+Korean
+Download
+Japanese
+Korean
+Patch This
+You'll need these
+Pwn This
+This launches it
+Download
+epochfail
+wm4?
+linear map
+Download
+Exploit
+sophia.re
+French
+Download
+Download
+Download
+Download
+Download
+sophia.re
+Japanese
+Scoreboard
+Download Client
+Download
+Download
+sophia.re
+Download
+Download
+Download
+gbarboza
+much like reddit's The Button subreddit
+FlagEncrypt
+here
+here
+message
+Data
+Black Table Transit System
+Small Hole Sciences
+Information
+here
+this
+ciphertext
+Caesar ciphers
+here's
+Here
+here
+here
+message
+here
+picture
+password
+Image
+polym
+here
+polym
+this
+apple
+polym
+this
+polym
+here
+Wireshark
+polym
+file
+polym
+file signatures
+wiretap
+.pcapng
+polym
+mystery1
+mystery2
+polym
+ImageMagicks `compose`
+mathematical operators
+pp
+amazing replay
+ripinpizzas.pdf
+@easyctf
+polym
+sayonara.mp3
+polym
+tulip
+polym
+ImageMagicks `sharpen` tool
+this writeup
+this forensic tool
+shell server
+LaunchCode.exe
+survey
+text
+@easyctf
+chat
+video tutorial
+obfuscated.py
+Scoreboard
+Writeup book by CTF organizers
+here
+List of local + external writeups on EasyCTF's github repo
+List of easter eggs during the challenge
+website
+Developer tools
+page
+new website
+I hate PHP
+this
+I *still* hate PHP
+site
+fics
+page
+Link
+Link
+SQL
+elliptic-shiho
+@elliptic_shiho
+Japanese
+Japanese
+Vietnamese
+Romanian
+Cached version
+Japanese
+elliptic-shiho
+Japanese
+Tempest for Windows
+Video of solution
+Japanese
+reddit post
+Scoreboard
+Organizers blog with solutions to all challenges
+heticor915
+official conference link
+Japanese
+heticor915
+Japanese
+http://ctfchallenges.ctf.site:10000/ipfilter/admin.php
+http://ctfchallenges.ctf.site:10000/jzoned/
+Japanese
+http://ctfchallenges.ctf.site:10000/randoom/
+http://ctfchallenges.ctf.site:10000/passcheck/
+http://ctfchallenges.ctf.site:10001/svgviewer/
+https://ctf.ekoparty.org/static/img/social_challenge.png
+https://instagram.com/p/7g9h0NRo32/
+Spanish
+polym
+this writeup
+in this writeup
+Spanish
+polym
+polym
+Source
+Fortify
+this writeup
+this bugtraq
+Spanish
+Scoreboard
+http://challs.ctf.site:10000/flagrequest/
+http://challs.ctf.site:10000/hackersmarket/
+http://challs.ctf.site:10002
+http://challs.ctf.site:10000/safebox/
+Scoreboard
+fluxchief
+avremu
+miton
+port knocking
+MAC
+SHA-512
+big endian
+Merkle–Damgård construction
+length extension attack
+iagox86/hash_extender
+bwall/HashPump
+similar challenge in StripeCTF 2.0
+Hurricane Electric's
+tunnel broker
+French
+German
+French
+polym
+Hill cipher
+service
+Sourcecode
+boogy
+reap-
+File
+Alternative download
+Sourcecode
+File
+Alternative download
+polym
+File
+Alternative download
+polym
+Oscilloscoping
+in this example
+Oscilloscoping
+Sourcecode
+Pwn Adventure 3
+Pwn Adventure 3
+Pwn Adventure 3
+Pwn Adventure 3
+Pwn Adventure 3
+Pwn Adventure 3
+Pwn Adventure 3
+Scoreboard
+Tasks ordered by solves
+Hacks for PwnAdventure3
+French
+polym
+this writeup suggests
+polym
+this writeup
+polym
+Scoreboard
+Sources for all challenges and descriptions to test on your own
+click
+polym
+process substitution
+French
+Link
+Japanese
+Link
+Japanese
+Campus ID Single-Sign On
+Japanese
+Japanese
+Japanese
+derlaft
+Box NaCl
+nonce
+The first 32 bytes of the output of XSalsa20 are used for the MAC, the rest are xored into the plaintext to encrypt it.
+Petition Builder
+dr_bob_e22538fa166acecc68fa17ac148dcbe2.tar.gz
+mega.nz mirror
+Vietnamese
+http://school.fluxfingers.net/
+Scoreboard
+Challenge
+Japanese
+service
+Website
+here
+Link
+teacher's pinboard
+agix
+metasploit
+Gurshabad Grover
+Sambhav Satija
+Gurshabad Grover
+Mayank Vachher
+Aneesh Dogra
+polym
+vimvaders
+Mayank Vachher
+Gurshabad Grover
+Mayank Vachher
+Aneesh Dogra
+polym
+`__printf_chk()`
+here
+Aneesh Dogra
+Sambhav Satija
+Website
+Mayank Vachher
+here
+race
+Japanese
+Japanese
+polym
+Japanese
+online qr code decoder
+morse code decoder
+Braille ASCII
+Japanese
+polym
+Indonesian
+Scoreboard
+Try us
+Scoreboard
+Japanese
+Chinese
+Chinese
+Scoreboard
+polym
+Nandy Narwhals
+polym
+waterleaf_f33ea69faae677575c217eaa86f3244e973d2e91.avi
+Chinese
+Chinese
+unicornsasfuel
+unicornsasfuel
+here
+polym
+1
+polym
+hash cracker
+polym
+polym
+polym
+an online QR decoder
+polym
+an online morse-code decoder
+polym
+This bit.ly link
+an online QR decoder
+Scoreboard
+Slideshow with writeups
+polym
+this shell-storm shellcode
+ODA
+Opcode reference manual
+polym
+polym
+Wrap-up in Icelandic
+wrap-up
+polym
+polym
+polym
+polym
+polym
+an online QR decoder
+polym
+Nodraak
+Website
+Wrap-Up (Icelandic)
+Some Writeups by the organizers
+Scoreboard
+polym
+Korean?
+Korean?
+Korean?
+Korean?
+Some writeups in Korean?
+Korean
+Korean
+Korean
+Korean
+Korean
+Korean
+Korean
+Korean
+Korean
+Korean
+Korean
+Korean
+Korean
+Korean
+Korean
+Korean
+Korean
+Korean
+Korean
+Korean
+Korean
+Korean
+Korean
+Korean
+http://blog.scrt.ch/2015/03/24/insomnihack-finals-jurassic-sparc-writeup/
+http://blog.scrt.ch/2015/03/24/insomnihack-finals-sh1tty-writeup/
+http://blog.scrt.ch/2015/03/24/insomnihack-finals-smtpwn-writeup/
+0xf4b
+cryptax
+French
+fbonzon
+ExifTool
+ImageMagick
+French
+http://www.balda.ch/posts/2015/Mar/24/ins15-1-2-3-4/
+cryptax
+plutil.pl
+French
+cryptax
+French
+http://blog.scrt.ch/2015/03/27/insomnihack-finals-insomnidroid-level-1-writeup/
+http://blog.scrt.ch/2015/03/24/insomnihack-finals-hollywood-network-writeup/
+antoinet
+Scoreboard
+Some files by the challenge authors?
+Blog entry with number of solves and more info
+PDF with several writeups
+French
+French
+https://github.com/Insomnihack/Insomnihack-2015/tree/master/web/Hack%20like%20it's%201999!
+French
+bcyrill
+cryptax
+here
+Sourcecode
+Sourcecode
+Scoreboard
+this website
+ichung
+mathiasbynens
+b01lers
+b01lers
+b01lers
+Partial Write-up
+polym
+polym
+NetShow Media Player
+Japanese
+polym
+b01lers
+Japanese
+this
+this writeup
+This Japanese writeup
+this writeup
+this writeup
+this
+this writeup
+this
+this writeup
+b01lers
+Japanese
+Japanese
+Japanese
+Japanese
+Russian
+Polish
+Japanese
+Japanese
+Korean
+Scoreboard
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+polym
+khack40
+polym
+b01lers
+b01lers
+b01lers
+b01lers
+French
+French
+Alternative download
+polym
+capturetheswag
+Some writeups
+Alternative download
+polym
+this writeup
+here
+here
+Scoreboard
+polym
+this writeup
+tomvangoethem
+HacknamStyle
+see the `confidentials.txt` file
+French
+polym
+unique count
+Spanish
+Portuguese
+jagotu
+run-length encoding
+polym
+this writeup suggests
+Source
+ASLR
+Wikipedia entry for Buffer Overflow
+ROPgadget
+here
+here
+this tiny reverse shell on shell-storm
+Japanese
+polym
+seccomp
+here
+this writeup
+this syscall table
+here
+`man 2 write`
+here
+`stdout`
+this writeup
+this writeup
+in this writeup
+here
+Vietnamese
+Vietnamese
+pyrocat101
+Portuguese
+Portuguese
+Portuguese
+vvvverre
+wikipedia
+Quantum Computing: A Gentle Introduction
+Scoreboard
+Vietnamese
+Vietnamese
+Vietnamese
+Vietnamese
+Spanish
+Spanish
+Spanish
+TToErrisHuman.php
+Spanish
+Portuguese
+chemistryCheck.php
+loop.php
+Spanish
+Portuguese
+nullcon.html
+Spanish
+Portuguese
+captcha.php
+pyrocat101
+Spanish
+polym
+Musical Cryptograms
+accidentals
+here
+Original source and writeup
+Writeup by Ymgve
+c0riolis
+polym
+c0riolis
+polym
+http://public.givemesecurity.info/16b11191c1410cb0184a6edd08e9105a.tar.gz
+Alternative download
+Eriner
+c0riolis
+Original source and writeup
+French
+polym
+/r/snakeswithhats
+polym
+his Steam profile
+a personal website of his
+his inventory
+Scoreboard
+Original source and writeup
+polym
+0x2Adr1
+c0riolis
+Original source and writeup
+polym
+Eriner
+polym
+polym
+polym
+captured
+xarsman
+HacknamStyle
+RSA
+RSA cryptosystem
+Wiener discovered an attack
+some code online
+b01lers
+Lense
+knapsack
+Vietnamese
+Fixed Server
+here
+sophia.re
+captured
+HoLyVieR
+b01lers
+sophia.re
+PNG file
+polym
+PNG specification
+comes right after
+`IHDR` chunk data
+32 bit CRC
+this
+polym
+ATK raster image data
+here
+this tool
+PlaidCTF CTF 2015: Unknown
+this
+This
+Kolmogorov's Pet Snake
+jorenverspeurt
+Do you have internet
+nobbd
+b01lers
+ezliang
+polym
+draw.io
+https://ctf-team.vulnhub.com/plaidctf-2015-ebp/
+Korean
+this database server
+Libc
+FrizN - PlaidDB - pwn 550
+wapiflapi - Single null-byte heap overflow
+his products
+whitehatters
+challenge
+old version
+geoff-addepar
+This service
+Libc
+Scoreboard
+can't melt steel beams .
+"It's a keygen problem"
+here
+Plaid CTF 2015: Clifford
+sophia.re
+reversing
+crypto
+My binary
+Vietnamese
+Server
+this regex
+web scale key value store
+Plaid CTF 2015: radhos
+sophia.re
+fariskhi
+polym
+spectrogram
+online morsecode decoer
+one writeup
+this 8bit musical sequencer
+this note sheet
+this writeup
+a patch
+fariskhi
+ezliang
+decompiled pseudo-C source code
+`jle`
+this writeup
+ezliang
+ctfhacker
+kokjo
+Scoreboard
+polym
+polym
+jadx
+polym
+online tool
+polym
+polym
+polym
+rot.py
+polym
+telephone keypad
+this code
+online tool
+Hexpresso CTF team
+polym
+juanjohn
+`fermats_factorize.py`
+`rsatool.py`
+b01lers
+polym
+Sascha Herm
+"keyed" CAESAR cipher
+@bbuerhaus
+polym
+"wasn't framed for perfection"
+polym
+rockyou.txt
+polym
+npiet
+Hexpresso Team
+Scoreboard
+polym
+polym
+polym
+online tool
+polym
+online OCR tool
+polym
+polym
+Source
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Japanese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Scoreboard
+souwangpan
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Spanish
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+CTF
+Let us know
+Write-ups for CTFs that occurred in 2013
+Write-ups for CTFs that occurred in 2014
+Write-ups for CTFs that occurred in 2015
+Write-ups for CTFs that occurred in 2016
+Scoreboard
+Writeup Slides by the organizer
+Japanese
+Japanese
+Chinese
+Cached version
+Chinese
+Cached version
+Chinese
+Cached version
+Japanese
+Chinese
+Cached version
+Chinese
+Cached version
+polym
+Indonesian
+Japanese
+Chinese
+Cached version
+Japanese
+Chinese
+Cached version
+Japanese
+Chinese
+Cached version
+Chinese
+Cached version
+Indonesian
+Chinese
+Cached version
+Japanese
+Chinese
+Cached version
+Indonesian
+Japanese
+Chinese
+Cached version
+Japanese
+Chinese
+Cached version
+Indonesian
+Japanese
+Chinese
+Cached version
+Chinese
+Cached version
+Scoreboard
+Indonesian
+Japanese
+Chinese
+Cached version
+Japanese
+polym
+malwr
+anubis
+Japanese
+Chinese
+Cached version
+polym
+Indonesian writeup
+website that offers steganography using spam mails
+decode site
+Indonesian
+Chinese
+Cached version
+Japanese
+polym
+this Indonesian writeup
+Indonesian
+Chinese
+Cached version
+Japanese
+Chinese
+Cached version
+Japanese
+Japanese
+Chinese
+Cached version
+Indonesian
+Japanese
+Chinese
+Cached version
+Indonesian
+Japanese
+Chinese
+Cached version
+Indonesian
+Japanese
+Chinese
+Cached version
+Game for linux
+Game for windows
+Alternative download (Game for linux)
+Alternative download (Game for windows)
+"file"
+Alternative download
+Scoreboard
+Flufferduff Pastebin
+Boop
+Youtube
+RoosterTeeth
+Quizlet
+spanish quiz
+youtube link
+GIF
+List of file signatures
+Rabbit Cipher
+link 1
+link 2
+morse code
+Bacon cipher
+HashKiller.co.uk
+HashKiller.co.uk
+redSeq
+coloredSeq
+fullColoredSeq
+Scoreboard
+Flags
+GIF
+Le Survey Link
+Pastebin.com
+Sometimes, you gotta be quick.
+link
+Try this one...
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+ChristmasIllumiations.zip
+Alternative download
+Japaanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+counterhardware.zip
+Alternative download
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+GoN (Korean)
+Korean
+Japanese
+Japanese
+Japanese
+GoN (Korean)
+Scoreboard
+Sources for all Challenges
+Google Docs containing list of writeups
+@syusui_s
+polym
+this writeup
+1
+2
+Some solutions
+Others
+This writeup
+an online QR decoder
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+polym
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+sunrise.zip
+Alternative download
+polym
+this format specification
+here
+French
+Japanese
+polym
+OCR
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+French
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+GoN (Korean)
+Freddrickk
+shikata-ga-nai
+polym
+wiki
+Security Account Manager
+LM and NTLM hashes
+Jumbo version
+an online hash database
+here
+Scoreboard
+polym
+polym
+online QR decoder
+Korean
+polym
+ipushino
+polym
+Gibberish AES
+There
+Scoreboard (college)
+Scoreboard high school
+polym
+bd087d91e8c4f74f617086d78870f231
+polym
+polym
+polym
+ctf-team
+Persian
+polym
+this persian writeup
+Persian
+polym
+bannsecurity
+Persian
+polym
+meme
+polym
+polym
+polym
+here
+here
+here
+here
+here
+Scoreboard
+Scoreboard
+f0rki
+HMACs is a little more complex
+length extension attacks
+HashPump
+f0rki
+padding oracle
+python-paddingoracle
+f0rki
+CRIME
+BREACH
+Romanian
+Cached Version
+Romanian
+Cached Version
+Romanian
+Cached Version
+polym
+this writeup
+this writeup
+f0rki
+radare2
+Scoreboard
+here for example
+hxp{ju5T_a_g3nTl3_r3m1nd3r_tH4t_x0r_sw4p_f41ls_h0rr1bLy_0n_eQu4l_p01Nt3r5}
+hxp{th3_pr0gr4m_sux}
+Romanian
+Cached Version
+Romanian
+Cached Version
+Gibson
+ovaltine.7z
+Alternative download
+bobbyblues
+traffic.7z
+bobbyblues
+polym
+this challenge
+This writeup
+Scoreboard
+f41c0r
+RISE
+our server
+b01lers
+Hyperboria
+hype
+b01lers
+paste
+new bank
+files
+script
+key
+ciphertext
+link
+script
+ciphertext
+script
+key
+ciphertext
+image
+Alternative download
+encryptor
+ciphertext
+plaintext
+homework
+relax_enjoy
+Alternative download
+world_art
+tiny_bash
+polym
+file descriptors
+`I/O Redirection`
+Polish
+database
+polym
+`radare2`
+Here
+global variables or functions
+here
+Japanese
+Polish
+my_little_pwnie
+Scoreboard
+server
+interstellar
+png
+polym
+song
+poem
+polym
+whitehatters
+Japanese writeup
+Adobe PDF reference page 330
+Japanese
+link
+polym
+rogdham
+matplotlib
+stego
+polym
+whitehatters
+here
+least significant bit
+Jessica Fridrich
+Andreas Westfeld
+here
+webserver
+webserver
+libglib
+libmicrohttpd
+f.apk
+x0w1
+Shamir's Secret Sharing
+Lagrange basis polynomials
+Web challenges solutions - differ from those in this repo?
+Vietnamese
+Vietnamese
+http://lab14.grandprix.whitehatvn.com/index.php.s
+http://lab14b.grandprix.whitehatvn.com/index.php.s
+Vietnamese
+http://lab11.grandprix.whitehatvn.com:1337
+http://lab11b.grandprix.whitehatvn.com:1337
+Vietnamese
+http://material.grandprix.whitehatvn.com/for100_2c698f97bca6186011c351dfdcd20c23
+http://materials.grandprix.whitehatvn.com/for100_2c698f97bca6186011c351dfdcd20c23
+polym
+Vietnamese
+here
+This writeup
+Vietnamese
+polym
+Vietnamese
+Vietnamese
+polym
+Tin
+malwr
+reverse.it/hybrid-analysis.com
+executables made from python code
+python decompiler
+virustotal
+Vietnamese
+https://grandprix.whitehatvn.com
+Scoreboard
+http://lab5.grandprix.whitehatvn.com/web1337_21cca7b2e46ee0bcb7194c1ceca75b22/
+http://lab5b.grandprix.whitehatvn.com/web1337_21cca7b2e46ee0bcb7194c1ceca75b22/
+http://lab13.grandprix.whitehatvn.com/
+http://lab13b.grandprix.whitehatvn.com/
+http://lab3.grandprix.whitehatvn.com/
+http://lab3b.grandprix.whitehatvn.com/
+http://lab2.grandprix.whitehatvn.com/
+http://lab2b.grandprix.whitehatvn.com/
+Vietnamese
+http://lab6.grandprix.whitehatvn.com/web400_beefb00b/web400.php
+http://lab6b.grandprix.whitehatvn.com/web400_beefb00b/web400.php
+http://lab4.grandprix.whitehatvn.com/
+http://lab4b.grandprix.whitehatvn.com/
+http://lab1.grandprix.whitehatvn.com/
+http://lab1b.grandprix.whitehatvn.com/
+Vietnamese
+Japaneese
+https://ctf.0ops.sjtu.cn/
+Scoreboard
+Dragon Sector write-ups
+Spanish
+Spanish
+Chineese
+Chineese
+Hamlet Text
+The Shakespeare Authorship Question
+Baconian Cipher
+Hamlet Text
+Baconian Cipher Decoder
+https://angstromctf.com
+Scoreboard
+cryptography
+Mathematicians
+cryptography system
+RSA
+message
+given code
+Obscurity
+Chaos
+pottage
+here
+firewall
+Objects
+messages
+example
+these
+Blackest
+library
+dramatical
+test
+Scoreboard
+Catch me
+death
+software license
+Putnam
+task
+upload
+HipHop
+there
+Russian
+Scoreboard
+b01lers
+b01lers
+b01lers
+LosFuzzys
+b01lers
+b01lers
+b01lers
+Russian
+ParthKolekar
+ParthKolekar
+ParthKolekar
+ParthKolekar
+ParthKolekar
+haproxy
+lxc
+nginx
+apache
+sslh
+nmap
+Scoreboard
+ParthKolekar
+ParthKolekar
+ParthKolekar
+ParthKolekar
+ParthKolekar
+ParthKolekar
+ParthKolekar
+Japanese
+Japanese
+committing rules
+emojis
+our tools repo
+this file
+https://twitter.com/HereIsJ0hnny
+tweet
+File
+File Here
+Application file
+Scoreboard
+File Here
+LiveOverflow
+Scoreboard
+bburky
+d2j-dex2jar
+jd-gui
+substr() function
+Scoreboard
+download
+download
+here
+Scoreboard
+here
+Link
+Link
+Scoreboard
+GreenBox
+b01lers
+here
+b01lers
+Spanish
+that debug interface
+b01lers
+Spanish
+LosFuzzys
+pwntools/binjitsu
+on GIST
+LosFuzzys
+Wikipedia
+**TAPIR**
+on GIST
+unicornsasfuel
+LosFuzzys
+Spanish
+Spanish
+Scoreboard
+CTF Repo by the organizers including sources and flags to challenges
+esolangs.org's language list
+TapeBagel
+here
+esolangs.org's language list
+TapeBagel
+TapeBagel Interpreter
+unicornsasfuel
+LosFuzzys
+this Stackoverflow answer
+steelsoldat
+steelsoldat
+Xarg's Caesar decrypter
+Chinese
+steelsoldat
+Chinese
+steelsoldat
+Wikipdea page
+Chinese
+unicornasfuel
+Chinese
+http://boaster.github.io/exploitation/2016/01/31/HackIM-CTF-Sandman-Exploitation-200.html
+f100
+f500 == mem.img.zip
+f200
+Chinese
+Chinese
+Chinese
+Chinese
+Chinese
+Partial writeup
+Scoreboard
+steelsoldat
+Bill's Cipher from Gravity Falls
+lanjelot
+Luhn
+albatar
+this website
+this site
+Scoreboard
+PixelShop
+PlaidDrive
+Slid DMs
+Scoreboard
+CeSeNA
+https://pwn2win.party
+Scoreboard
+Dragon Sector write-ups
+IceStorm
+Verilator
+Python 3
+IceStorm
+iverilog
+verilator
+GTKWave
+NIST-approved hash algorithm
+boolean satisfiability problem
+conjunctive normal form
+SAT solver
+Tseytin transformation
+Grako
+MiniSat
+Challenge source code
+Challenge source code
+CTF
+Let us know
+Write-ups for CTFs that occurred in 2013
+Write-ups for CTFs that occurred in 2014
+Write-ups for CTFs that occurred in 2015
+Write-ups for CTFs that occurred in 2016
+blink.mp4
+Rubik's Cube
+here
+Global Positioning Systems
+trilaterate
+this
+this
+this verticode
+This
+compressed.zip
+here
+rain.wav
+here
+server
+test server
+bomb_squad
+Scoreboard
+admin control panel
+obfuscat
+site
+puzzle
+deterministic
+more
+flux-rev.rar
+https://github.com/tothi/ctfs/tree/master/ssctf-2016/crypto-exploit/heheda-100
+http://uaf.io/exploitation/2016/02/28/SSCTF-PWN-400.html
+http://uaf.io/exploitation/2016/02/28/SSCTF-PWN-600.html
+https://www.youtube.com/watch?v=zSXiQhWCq6A
+Scoreboard
+b01lers
+Spanish
+H4x0rPsch0rr
+Korean
+Korean
+jashanbhoora
+memdump2.xz
+jashanbhoora
+Github Repository
+Russian
+Link
+Scoreboard
+Chinese
+Spanish
+Spanish
+Wikipedia
+Scoreboard
+MilWestA - CTFtime.org
+My Computer is a Potato - gitbooks.io
+My Computer is a Potato - gitbooks.io
+My Computer is a Potato - gitbooks.io
+My Computer is a Potato - gitbooks.io
+SiBears - SiBears.ru
+My Computer is a Potato
+gqxgu{m0g_z_xz3h4i_x1ks3i}
+MilWestA - CTFtime.org
+My Computer is a Potato - gitbooks.io
+SiBears - SiBears.ru
+Invulnerable - Countersite.org
+My Computer is a Potato - gitbooks.io
+SiBears - SiBears.ru
+My Computer is a Potato
+SiBears - SiBears.ru
+Invulnerable - Countersite.org
+My Computer is a Potato - gitbooks.io
+MilWestA - CTFtime.org
+My Computer is a Potato - gitbooks.io
+a trusty online steganography detector
+MilWestA - CTFtime.org
+My Computer is a Potato -gitbooks.io
+MilWestA - CTFtime.org
+SiBears - SiBears.ru
+The_Invulnerable - coutersite.org
+My Computer is a Potato - gitbooks.io
+mu's Music Start!
+My Computer is a Potato - gitbooks.io
+SiBears - SiBears.ru
+b0tch_sec - b0tchsec.com
+My Computer is a Potato - gitbooks.io
+SiBears - SiBears.ru
+My Computer is a Potato - gitbooks.io
+a Java program
+MilWestA - CTFtime.org
+HackCat
+My Computer is a Potato - gitbooks.io
+SiBears - SiBears.ru
+MilWestA - CTFtime.org
+My Computer is a Potato - gitbooks.io
+MilWestA - CTFtime.org
+My Computer is a Potato
+0x90r00t - 090root.com
+My Computer is a Potato - gitbooks.io
+My Computer is a Potato - gitbooks.io
+0x09r00t - 0x09r00t.com
+ChocolateMakers - GitHub.com
+My Computer is a Potato - gitbooks.io
+MilWestA - CTFtime.org
+SiBears - SiBears.ru
+HackCat
+My Computer is a Potato - gitbooks.io
+My Computer is a Potato - gitbooks.io
+super-questionable-luggage.p.tjctf.org
+MilWestA - CTFtime.org
+My Computer is a Potato - gitbooks.io
+http://usetheforce.p.tjctf.org
+My Computer is a Potato - gitbooks.io
+dump (600MB)
+HDD Image (3.3GB)
+mirror1
+mirror2
+mirror3
+H4x0rPsch0rr
+H4x0rPsch0rr
+gist
+gist2
+spectrogram
+insane::Coder alessandro;
+insane::Coder alessandro;
+http://jl.2016.volgactf.ru:7777
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

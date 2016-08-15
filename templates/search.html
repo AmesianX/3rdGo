@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+	<title>CTF HOME</title>
+	<style>
+#searchbox > input[type="text"] {
+	width: 70%;
+	height: 30px;
+	font-size: 20px;
+}
+#searchbox > input[type="button"] {
+	width: 10%;
+	height: 30px;
+}
+	</style>
+</head>
+<body>
+	<div id="header">
+		<form id="searchbox">
+		  <input type="text" name="keywords">
+		  <input type="button" name="search" value="go!">
+		</form>
+	</div>
+	<div id="contents">
+		<ol>
+			{{ lis }}
+		</ol>
+	</div>
+</body>
+</html>

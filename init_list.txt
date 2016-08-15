@@ -1,0 +1,8 @@
+https://github.com/ctfs/write-ups-2016
+https://github.com/ctfs/write-ups-2015
+https://github.com/ctfs/write-ups-2014
+https://github.com/ctfs/write-ups-2012
+https://github.com/ctfs/write-ups-2013
+https://github.com/ctfs/write-ups-tools
+https://github.com/ctfs/resources
+https://github.com/apsdehal/awesome-ctf
