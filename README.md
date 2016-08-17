@@ -1,3 +1,4 @@
+```
 data/ : github clone한 내용들 저장.
 deps/ : 먼저 설치해야 하는 것들.
 scrapy/ : scrapy 크롤링 관련 소스/데이터
@@ -20,3 +21,4 @@ out.json :
 process.py : 여러가지 처리하는 파일. preprocess, search 등등. 
 test.txt : 
 url_parse : clone한 git 저장소에서 url 파싱. 
+```
