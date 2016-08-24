@@ -1,3 +1,4 @@
+```
 data/ : github clone한 내용들 저장.
 deps/ : 먼저 설치해야 하는 것들.
 scrapy/ : scrapy 크롤링 관련 소스/데이터
@@ -32,3 +33,4 @@ Update 방법
 5. scrapy crawl General 실행. (먼저, 이전 jobdir가 있으면 삭제해야됨. )
 6. cat general2.jsonlines >> general.jsonlines; mv general.jsonlines DATA_DIR\scrapy 실행 (DATA_DIR 은 설정한 DATA_DIR)
 ------
+```
