@@ -1,5 +1,6 @@
 import subprocess
 import os, sys
+from settings import DATA_DIR
 
 def clone():
 	init_list = open('init_list.txt', 'r').read().split('\n')
@@ -10,7 +11,7 @@ def clone():
 			name = name[:-1]
 		name = name[-1]
 		print 'Cloning %s to %s.............' % (x, name)
-		subprocess.call('git clone ' + x + ' data' + os.path.sep + name, shell=True)
+		subprocess.call('git clone ' + x + ' ' + os.path.sep.join([DATA_DIR, 'data', 'urls_to_crawl.json']), shell=True)
 
 def checkout():
 	init_list = open('init_list.txt', 'r').read().split('\n')

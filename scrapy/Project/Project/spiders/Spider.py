@@ -3,6 +3,8 @@ import scrapy
 import json
 from Project.items import ProjectItem
 import base64, zlib
+from scrapy.conf import settings
+import os
 
 # url list spider
 # input : urls to crawl
@@ -12,7 +14,7 @@ class SpiderSpider(scrapy.Spider):
 
 	def gen_queue(self):
 		if self.state.get('MyQueue', None) == None:
-			print 'INITEDINITEDINITEDINITEDINITEDINITEDINITEDINITEDINITEDINITEDINITEDINITEDINITEDINITEDINITEDINITED'
+			print 'INIT'
 			self.state['MyQueue'] = []
 		l = len(self.crawler.engine.slot.scheduler)
 		THR = 100
@@ -30,7 +32,7 @@ class SpiderSpider(scrapy.Spider):
 
 	def parse_process(self, response):
 		one = {'src_url': response.meta['src_url'], 'url': response.meta['url'], 'label': response.meta['label']}
-		with open('did.txt', 'a') as f:
+		with open(os.path.sep.join([settings['DATA_DIR'], 'scrapy', 'did.txt']), 'a') as f:
 			f.write(str(one) + '\n')
 		item = ProjectItem()
 		item['src_url'] = response.meta['src_url']
@@ -44,7 +46,7 @@ class SpiderSpider(scrapy.Spider):
 
 	def start_requests(self):
 		print 'STARTING LOADING...........'
-		jo = json.loads(open(r'D:\ctf\out.json', 'rb').read())
+		jo = json.loads(open(os.path.sep.join([settings['DATA_DIR'], 'scrapy', 'urls_to_crawl.json']), 'rb').read())
 		self.state['MyQueue'] = []
 		for x in jo:
 			self.state['MyQueue'].append((x['url'], x, 'parse_process'))

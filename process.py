@@ -6,6 +6,11 @@ import json
 import base64, zlib
 import scrapy
 import re
+import os
+
+DATA_DIR = r'D:\ctf\data'
+CRAWLED_DATA = DATA_DIR + os.path.sep + 'scrapy\\general.jsonlines'
+PREPROCESSD_DATA = DATA_DIR + os.path.sep + 'scrapy\\pre_processed.jsonlines'
 
 class Parsers:
 	def rel2url(self, url, rel):
@@ -117,13 +122,15 @@ class GITHUB_ITER:
 		import glob, re, os
 		cwd = os.getcwd()
 		os.chdir(self.initdir)
-		globed = glob.glob('./*/*/*/**')
+		globed = glob.glob('./*/*/*/*/**')
 		globed = [x for x in globed if os.path.isfile(x)]
 		for x in globed:
-			ctf_name, prob_category, prob_name, entry_name = re.findall(r'\.\\(.*?)\\(.*?)\\(.*?)\\(.*)', x)[0]
+			gitrepo_name, ctf_name, prob_category, prob_name, entry_name = re.findall(r'\.\\(.*?)\\(.*?)\\(.*?)\\(.*?)\\(.*)', x)[0]
+			if gitrepo_name == 'scrapy':
+				continue
 			#print ctf_name, prob_category, prob_name, entry_name
 			with open(x, 'rb') as f:
-				yield {'ctf_name': ctf_name, 'tags': [prob_category], 'prob_name': prob_name, 'url': entry_name, 'body': f.read(), 'src_url': 'GITHUB', 'src_type': 'GITHUB'}
+				yield {'gitrepo_name': gitrepo_name, 'ctf_name': ctf_name, 'tags': [prob_category], 'prob_name': prob_name, 'url': entry_name, 'body': f.read(), 'src_url': 'GITHUB', 'src_type': 'GITHUB'}
 		os.chdir(cwd)
 
 def simple_count_search(keywords, iterable, field):
@@ -139,8 +146,28 @@ def simple_count_search(keywords, iterable, field):
 	# return list of (index, countnum)
 	return counted[:30]
 
+def simple_count_search_iter(keywords, iterable, field, top_n=30):
+	if type(keywords) == str:
+		keywords = keywords.split(' ')
+	counted = []
+	for data in iterable:
+		count = 0 
+		for keyword in keywords:
+			count += data[field].count(keyword)
+		if len(counted) < top_n:
+			counted.append((data, count))
+		elif min([_[1] for _ in counted]) < counted:
+			mi = min([_[1] for _ in counted])
+			mi_index = [_[1] for _ in counted].index(mi)
+			counted[mi_index] = (data, count)
+
+	counted = [(i[0], i[1]) for i in sorted(counted, key=lambda x:x[1], reverse=True)]
+	# return list of (index, countnum)
+	return counted[:30]
+
 def search_dictionary(list_of_dic, k, v):
 	for dic in list_of_dic:
+		print dic[k], v, type(dic[k]), type(v)
 		if dic[k] == v:
 			yield dic
 
@@ -228,6 +255,8 @@ def add_writeuppage_info(filename):
 		data = []
 		# first, load data.
 		for line in infile:
+			if line.strip() == '':
+				break
 			d = json.loads(line)
 			d['body'] = zlib.decompress(base64.b64decode(d['body']))
 			data.append(d)
@@ -242,6 +271,8 @@ def add_writeuppage_info_2file(filename, outfilename):
 			# first, load data.
 			i = 0
 			for line in infile:
+				if line.strip() == '':
+					break
 				i += 1
 				#if i <= 6730:
 				#	continue
@@ -259,6 +290,8 @@ def load_json(fn, n=1000000000000000000000):
 	with open(fn, 'r') as infile:
 		i = 0
 		for line in infile:
+			if line.strip() == '':
+				break
 			if i >= n:
 				break
 			i += 1
@@ -268,13 +301,28 @@ def load_json(fn, n=1000000000000000000000):
 	#######
 	return data
 
+def load_json_iter(fn, n=1000000000000000000000):
+	### load json data (crawled data)
+	with open(fn, 'r') as infile:
+		i = 0
+		for line in infile:
+			if line.strip() == '':
+				break
+			if i >= n:
+				break
+			i += 1
+			d = json.loads(line)
+			d['body'] = zlib.decompress(base64.b64decode(d['body']))
+			yield d
+	#######
+
 def search(data, keywords):
 	p = Parsers()
 	# github 페이지, src가 github인 페이지, ctftime writeup 페이지, src가 ctftime writeup페이지인 페이지만 검색. 
 	# ctftime.org 정보 추가. 
 	search_targets = [x for x in data if (('ctftime.org/writeup/' in x['src_url']) and (not 'https://ctftime.org' in x['url'])) or ('ctftime.org/writeup/' in x['url'])]	# search ctftime
 	# github 정보 추가. 
-	search_targets += GITHUB_ITER(r'D:\ctf\data\write-ups-2016')
+	search_targets += make_github_iter()
 	# search
 	s = simple_count_search(keywords, search_targets, 'body')
 	for cand in s:
@@ -284,6 +332,8 @@ def search(data, keywords):
 		url = req_entry['url']
 		# if this is not from github
 		src_req_entry = None
+		import code
+		code.interact()
 		if 'src_type' not in req_entry or req_entry['src_type'] != 'GITHUB':
 			info = p.CTFTIME_parse_writeup2Info(body, url)
 			# if this page is not writeup page
@@ -297,50 +347,63 @@ def search(data, keywords):
 			src_req_entry = search_dictionary(search_targets, 'url', req_entry['src_url']).next()
 		yield (req_entry, src_req_entry)
 
+def make_github_iter():
+	return GITHUB_ITER(DATA_DIR)
 
-def search_preprocessed(data, keywords):
+def search_preprocessed(keywords, data_fn = None):
+	from itertools import chain
+	if data_fn == None:
+		data_fn = PREPROCESSD_DATA
+	data = load_json_iter(data_fn)
 	p = Parsers()
 	# github 페이지, src가 github인 페이지, ctftime writeup 페이지, src가 ctftime writeup페이지인 페이지만 검색. 
 	# ctftime.org 정보 추가. 
-	search_targets = [x for x in data if (('ctftime.org/writeup/' in x['src_url']) and (not 'https://ctftime.org' in x['url'])) or ('ctftime.org/writeup/' in x['url'])]	# search ctftime
+	search_targets_ = (x for x in data if (('ctftime.org/writeup/' in x['src_url']) and (not 'https://ctftime.org' in x['url'])) or ('ctftime.org/writeup/' in x['url']))	# search ctftime
 	# github 정보 추가. 
-	search_targets += GITHUB_ITER(r'D:\ctf\data\write-ups-2016')
+	search_targets = chain(search_targets_, (_ for _ in make_github_iter()))
 	# search
-	s = simple_count_search(keywords, search_targets, 'body')
-	for cand in s:
-		# cand : (index, match count)
-		req_entry = search_targets[cand[0]]
+	for cand in simple_count_search_iter(keywords, search_targets, 'body'):
+		# cand : (data, match count)
+		req_entry = cand[0]
 		# if this is not from github
 		src_req_entry = None
-		if 'src_type' not in req_entry or req_entry['src_type'] != 'GITHUB':
+		if 'src_type' not in req_entry or req_entry['src_type'] != 'GITHUB' or req_entry['src_url'] == 'GITHUB':
 			# if this page is not writeup page
-			if not 'tags' in req_entry:
+			print 'aaa'
+			if not 'tags' in req_entry: # if not (ctftime page or github page). 
+				data = load_json_iter(PREPROCESSD_DATA)
+				search_targets_ = (x for x in data if (('ctftime.org/writeup/' in x['src_url']) and (not 'https://ctftime.org' in x['url'])) or ('ctftime.org/writeup/' in x['url']))	# search ctftime
+				search_targets = chain(search_targets_, (_ for _ in make_github_iter()))
+				try:
+					src_req_entry = search_dictionary(search_targets, 'url', req_entry['src_url']).next()
+				except StopIteration:
+					src_req_entry = None
+		elif req_entry['src_type'] == 'GITHUB' and req_entry['src_url'] != 'GITHUB':
+			data = load_json_iter(PREPROCESSD_DATA)
+			search_targets_ = (x for x in data if (('ctftime.org/writeup/' in x['src_url']) and (not 'https://ctftime.org' in x['url'])) or ('ctftime.org/writeup/' in x['url']))	# search ctftime
+			search_targets = chain(search_targets_, (_ for _ in make_github_iter()))
+			try:
 				src_req_entry = search_dictionary(search_targets, 'url', req_entry['src_url']).next()
-		elif req_entry['src_type'] == 'GITHUB':
-			src_req_entry = search_dictionary(search_targets, 'url', req_entry['src_url']).next()
+			except StopIteration:
+				# Source url is not in data! uncralwed or bug?
+				src_req_entry = None
 		yield (req_entry, src_req_entry)
 
 
 if __name__ == '__main__': 
 	if sys.argv[1] == 'search':
-		data = load_json('general.jsonline')
+		data = load_json(CRAWLED_DATA)
 		keywords = sys.argv[2]
 		for x, src in search(data, keywords):
 			tags = x['tags'] if src == None else src['tags']
 			print tags, x['url']
 	elif sys.argv[1] == 'search_preprocess':
-		data = load_json('pre_processed.jsonline', 1000)
 		keywords = sys.argv[2]
-		for x, src in search_preprocessed(data, keywords):
+		for x, src in search_preprocessed(keywords, PREPROCESSD_DATA):
 			tags = x['tags'] if src == None else src['tags']
-			print tags, x['url'], src['url']
+			s = (str(tags) if tags != None else '') + ' ' + (x['url'] if x != None and 'url' in x else '') + ' ' + (src['url'] if src != None and 'url' in src else '')
+			print s
 	elif sys.argv[1] == 'preprocess':
-		add_writeuppage_info_2file('general.jsonline', 'pre_processed.jsonline')
-	elif sys.argv[1] == 'update':
-		# update github
-		
-		pass
-	elif sys.argv[1] == 'update_preprocess':
-		pass
+		add_writeuppage_info_2file(CRAWLED_DATA, PREPROCESSD_DATA)
 	else:
-		print 'unsupported method'
+		print 'unsupported'

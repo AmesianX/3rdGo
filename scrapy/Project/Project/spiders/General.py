@@ -7,6 +7,8 @@ from scrapy.selector import Selector
 import base64, zlib
 from scrapy.utils import request
 from scrapy.crawler import CrawlerProcess
+from scrapy.conf import settings
+import os
 
 class GeneralSpider(scrapy.Spider):
 	name = "General"
@@ -76,7 +78,7 @@ class GeneralSpider(scrapy.Spider):
 		# * depth and filter_func cannot be used concurrently!
 		###########################
 		### DEBUG CODE
-		with open('did.txt', 'a') as f:
+		with open(os.path.sep.join([settings['DATA_DIR'], 'scrapy', 'did2.txt']), 'a') as f:
 			f.write(str(response.url) + '\t' + (response.meta['src_url'] if 'src_url' in response.meta else '') + '\n')
 		###
 		if self.DEPTH != None and self.filter_func != None:
@@ -84,7 +86,7 @@ class GeneralSpider(scrapy.Spider):
 			exit()
 		assert self.crawl_resources in (True, False)
 		### Yield Items 
-		#################################################################yield self.parse_items(response)
+		yield self.parse_items(response)
 		###
 		### Yield New Requests
 		depth = response.meta['depth'] if 'depth' in response.meta else 0

@@ -3,8 +3,9 @@
 import sys
 import codecs
 sys.stdout = codecs.getwriter('utf8')(sys.stdout)
-
+import os
 import re
+from settings import DATA_DIR
 
 RE = re.compile
 
@@ -111,21 +112,6 @@ url_parsers = [ RE(
     #RE(ur'((http[s]?|ftp):\/)?\/?([^:\/\s]+)((\/\w+)*\/)([\w\-\.]+[^#?\s]+)(.*)?(#[\w\-]+)?')
     ]
 
-data = open('md_data', 'rb').read()
-
-'''
-import code
-code.interact(local=locals())
-'''
-
-'''
-for x in url_parsers:
-	print '-' * 1000
-	print x.pattern
-	sys.stderr.write(x.pattern + '\n')
-	print x.findall(data)
-'''
-
 def custom_md_url_parser(data):
 	result_urls = []
 	pr = ''
@@ -166,7 +152,6 @@ import fnmatch
 import os
 import json
 
-
 matches = []
 for root, dirnames, filenames in os.walk('data'):
     for filename in fnmatch.filter(filenames, '*.md'):
@@ -183,11 +168,6 @@ for md_file in matches:
 		a['label'] = label
 		scraped.append(a)
 
-open('out.json', 'wb').write(json.dumps(scraped))
-
-
-
-
-
+open(os.path.sep.join([DATA_DIR, 'scrapy', 'urls_to_crawl.json']), 'wb').write(json.dumps(scraped))
 
 

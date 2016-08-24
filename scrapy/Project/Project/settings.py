@@ -27,7 +27,8 @@ USER_AGENT = 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, lik
 DNS_TIMEOUT = 10
 DOWNLOAD_TIMEOUT = 180
 
-FEED_URI = 'general.jsonline'
+DATA_DIR = r'D:\ctf\data'
+FEED_URI = r'general.jsonlines'
 FEED_FORMAT = 'jsonlines'
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
