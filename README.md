@@ -1,4 +1,7 @@
-```
+ ```
+프로젝트 기획자: AmesianX
+개발 프로그래머: 이진성
+
 data/ : github clone한 내용들 저장.
 deps/ : 먼저 설치해야 하는 것들.
 scrapy/ : scrapy 크롤링 관련 소스/데이터
